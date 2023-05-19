@@ -5,7 +5,7 @@ The goal of this project is to perform data analytics on Uber data using various
 ## Architecture 
 <img src="data_architecture_3.PNG">
 ## Technology Used
-- Programming Language - Python
+Programming Language - Python
 ## Platforms
 1. Azure Blog Storage
 2. Compute Instance 
